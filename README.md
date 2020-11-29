@@ -1,2 +1,2 @@
 # SQL
-USC Business Analytics: SQL for Business Analysts
+USC Marshall Business Analytics: SQL for Business Analysts
